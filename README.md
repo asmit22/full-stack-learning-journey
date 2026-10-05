@@ -19,6 +19,7 @@ I am consistently learning and building projects using modern web technologies.
 ## 📅 Progress
 
 Check `daily-log.md` for daily updates.
+Learning javscript
 
 ## 🎯 Goal
 
